@@ -1,3 +1,30 @@
 body {
   background: red;
 }
+
+
+.icon__container {
+  display: inline-block;
+  border-radius: 0.25rem;
+  line-height: 0;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+  fill: #999999;
+}
+
+
+.icon--blue { fill: blue; }
+
+.icon--green { fill: green; }
+
+
+.icon--small {
+  width: 0.85rem;
+  height: 0.85rem;
+}
+
+
+
