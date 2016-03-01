@@ -1,5 +1,5 @@
 body {
-  background: red;
+  background: #edefe2;
 }
 
 
@@ -7,7 +7,11 @@ body {
   display: inline-block;
   border-radius: 0.25rem;
   line-height: 0;
+  background-color: black;
+  padding: 0.8rem;
 }
+
+.icon__container--yellow { background-color: yellow; }
 
 .icon {
   width: 1rem;
@@ -21,10 +25,21 @@ body {
 .icon--green { fill: green; }
 
 
-.icon--small {
-  width: 0.85rem;
-  height: 0.85rem;
+.icon--lg {
+  width: 2rem;
+  height: 2rem;
 }
 
+.margin-right--sm { margin-right: 1rem; }
 
+.u-visually-hidden {
+  position: absolute !important;
+  margin: -1px !important;
+  border: 0 !important;
+  padding: 0 !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
 
+}

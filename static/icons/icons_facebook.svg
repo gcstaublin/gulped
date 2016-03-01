@@ -4,9 +4,9 @@
 	 height="85px" viewBox="0 0 85 85" enable-background="new 0 0 85 85" xml:space="preserve">
 <g id="Layer_1">
 	<g display="none">
-		<rect x="-2033.5" y="-422.293" display="inline" fill="#D1D3D4" width="2945.022" height="577.471"/>
+		<rect x="-2033.5" y="-422.293" display="inline" width="2945.022" height="577.471"/>
 	</g>
-	<path fill="#FFFFFF" d="M46.565,25.687c0-2.485,1.647-3.064,2.806-3.064h7.13V11.686l-9.816-0.038
+	<path d="M46.565,25.687c0-2.485,1.647-3.064,2.806-3.064h7.13V11.686l-9.816-0.038
 		c-10.898,0-13.378,8.15-13.378,13.373v7.292h-6.301v11.262h6.301V75.47h13.259V43.576h8.94l1.164-11.262H46.565V25.687z"/>
 </g>
 <g id="Layer_2">
